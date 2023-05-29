@@ -1,16 +1,6 @@
-# project_sampah
+# NaCo
 
-A new Flutter project.
+Menghitung takaran pembuatan pupuk
 
-## Getting Started
+![Onboarding Screen]<img src="https://github.com/kynov007/NaCo/raw/main/photos/Screenshot%202023-05-29%20at%2018.26.19.png" alt="Deskripsi Foto" width="300" height="200">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
